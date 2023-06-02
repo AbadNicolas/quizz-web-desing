@@ -1,0 +1,50 @@
+h3 {
+  background-color: yellow;
+    border: dashed violet 3px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+    margin: auto;
+  }
+  * {
+    background-color: green;
+
+  }
+
+  body {
+    
+    background-color: lightgray;
+    width: 70%;
+    margin: auto;
+  }
+ img
+ {
+  display: block  ;
+ }
+ #first {
+  display: inline;
+  text-align: center;
+ }
+ #second {
+  
+  display: inline;
+ 
+  
+ }
+ #third{
+  text-align: center;
+  display: inline;
+ }
+ div{
+  background-color: lightgray;
+  text-align: center;
+ }
+
+
+ 
+ 
+
+ 
+
+  
